@@ -1,0 +1,39 @@
+# Ноутбуки
+jupyterlab
+ipykernel
+ipywidgets
+
+# Работа с данными
+numpy
+pandas
+polars
+pyarrow
+scipy
+duckdb
+
+# Классический ML и бустинг
+scikit-learn
+catboost>=1.2.10
+optuna
+
+# Графовая модель
+torch>=2.10
+torch-geometric
+networkx
+
+# Генерация кандидатов
+implicit>=0.7.3
+
+# Визуализация и удобство работы
+matplotlib
+seaborn
+plotly
+tqdm
+
+# Конфигурации, сохранение моделей и контроль ресурсов
+PyYAML
+joblib
+psutil
+
+# Тесты будущих функций
+pytest
